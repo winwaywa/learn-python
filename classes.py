@@ -154,7 +154,7 @@ e.add_trick('play dead')
 print(d.tricks)
 print(e.tricks)
 
-# python hỗ trợ đa kế thừa
+# python hỗ trợ đa kế thừa và nó hiểu khai báo đa kế thừa từ phải qua trái.
 
 # private variable
 # Để tránh xung đột tên của tên với tên được xác định bởi lớp con
